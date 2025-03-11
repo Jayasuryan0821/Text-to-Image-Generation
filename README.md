@@ -1,4 +1,4 @@
-# Baseline Implementation for Stable Diffusion Fine-Tuning
+# Text-to-Image-Generation 
 
 ## Overview
 
